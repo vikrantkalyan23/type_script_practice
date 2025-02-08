@@ -1,1 +1,1 @@
-# type_script_practice
+# Type Script Practice
