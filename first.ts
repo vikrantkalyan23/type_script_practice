@@ -1,3 +1,8 @@
 export {}
-let a = 'Hello World';
-console.log(a);
+class Abc {
+    demo() {
+        console.log('hello');
+    }
+}
+let a = new Abc();
+a.demo();
