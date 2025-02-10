@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",  // or higher (ES2020, ESNext)
+    "lib": ["ESNext"]
+  }
+}
